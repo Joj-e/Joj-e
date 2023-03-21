@@ -1,4 +1,4 @@
-Olá mundo, meu nome é José Julio :)👋
+### Olá mundo!! eu sou o José Julio👋
 
 
-(https://github-readme-stats.vercel.app/api?username=Joj-e&show_icons=true&theme=dracula&count_private=true)
+![Joj-e GitHub stats](https://github-readme-stats.vercel.app/api?username=Joj-e&show_icons=true&theme=dracula&count_private=true)
